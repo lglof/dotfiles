@@ -1,0 +1,7 @@
+# Dotfiles
+
+I installed the i3wm version of Manjaro recently and don't feel like losing my configuration if something goes off the rails. 
+
+## Next steps
+- polybar (I did some initial work on this, didn't go anywhere that worked better than the i3status though)
+- more custom scripting (just a lil short on ideas right now)
